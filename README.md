@@ -1,4 +1,4 @@
 # gt-course
 for training
 
-##project nutes
+## project nutes
